@@ -12,7 +12,7 @@ This project analyzes **US traffic accident data** to identify patterns related 
   - Identify high-risk road conditions and times  
   - Visualize accident hotspots across different regions  
 
-- **Dataset**: US Accident Dataset (auto-downloaded in code)  
+- **Dataset**: US Accident Dataset
   - Contains details about accidents such as location, time, weather, and road conditions.
 
 - **Approach**:  
